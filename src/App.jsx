@@ -9,16 +9,16 @@ function App() {
           Super-duper <span className="heart">♥️</span> Space-halibut
         </p>
         <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          Working on new update <code>src/App.jsx</code>.
         </p>
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://github.com/duckandpup/reactcodespace.git"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Welcome to Hailbut
           </a>
         </p>
       </header>
