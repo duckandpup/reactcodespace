@@ -9,7 +9,7 @@ function App() {
           Super-duper <span className="heart">♥️</span> Space-halibut
         </p>
         <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          Working on new update <code>src/App.jsx</code>.
         </p>
         <p>
           <a
